@@ -1,14 +1,14 @@
-# ⚡ Lightweight CPU Benchmark
+#  Lightweight CPU Benchmark
 
 A high-efficiency, end-to-end CPU performance benchmarking tool powered by machine learning workload simulation.
 
-## 🚀 Key Features
+##  Key Features
 
 * **System Profiling:** Automatically detects and logs hardware configuration, core count, and system architecture.
 * **Synthetic Dataset Generation:** Dynamically generates structured data to stress test memory bandwidth and single/multi-thread performance.
 * **ML Workload Stress Test:** Trains a LightGBM model to evaluate real-world CPU performance during intensive matrix operations and decision tree training.
 
-## 🛠️ Quick Start
+##  Quick Start
 
 ```bash
 # Clone the repository
