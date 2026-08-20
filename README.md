@@ -12,6 +12,10 @@ Unlike traditional synthetic arithmetic loops, this tool stress-tests CPU microa
 * **Deterministic Dataset:** Uses fixed-seed NumPy generation to construct a consistent 100,000 row × 32 feature synthetic matrix for accurate cross-system hardware comparisons.
 * **Cold-Start Elimination:** Executes an unmeasured initial warm-up run to bypass library initialization and thread-pool setup latency.
 * **Robust Scoring:** Evaluates performance using median runtime, peak runtime, row throughput, and a normalized performance index.
+* Blazing Fast:=> 210,000$ points
+* Fast: $200,000 - 209,999$ points
+* Fast: $200,000 - 209,999$ points
+* Fast: $200,000 - 209,999$ points
 
 ## ⚙️ Benchmark Specifications
 
